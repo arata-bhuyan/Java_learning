@@ -18,7 +18,7 @@ public class TranspseMatrix {
     }
 
 
-    // without use of new matrix transpose of a matrix
+    // without use of new matrix transpose of a matrix only for same column and row matrix
     /*static void TransposeInplace(int[][] matri,int row,int col){
         for (int i = 0; i < col; i++) {
             for (int j = i; j < row; j++) {
