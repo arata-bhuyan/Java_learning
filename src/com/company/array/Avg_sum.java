@@ -6,7 +6,6 @@ public class Avg_sum {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[][] arr = new int[3][2];
-        int avg = 0;
         int sum = 0;
         System.out.println("Enter your array element: ");
         for (int i = 0; i < 3; i++) {
