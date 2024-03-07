@@ -16,7 +16,6 @@ public class Check_sort {
             // Unsorted pair found
             if (arr[i - 1] > arr[i]){
                 return false;
-
             }
 
         // No unsorted pair found
