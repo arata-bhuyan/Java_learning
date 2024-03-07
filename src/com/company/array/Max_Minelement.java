@@ -35,5 +35,6 @@ public class Max_Minelement {
             }
         }
         //System.out.println("The minimum  element is :" + min );
+
     }
 }
