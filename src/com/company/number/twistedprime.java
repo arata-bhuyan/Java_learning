@@ -36,5 +36,6 @@ public class twistedprime {
         else {
             System.out.println("the number is not twisted prime:");
         }
+        // the number is prime then the reverse of this number also prime then the number is called twisted prime
     }
 }
