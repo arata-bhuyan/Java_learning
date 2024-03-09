@@ -25,4 +25,5 @@ public class PalindromeNumber {
         int n = sc.nextInt();
         reverse(n);
     }
+    // the reverse order of number is must be same with the number
 }
